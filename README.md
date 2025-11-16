@@ -2,7 +2,7 @@
 
 **Inkwang Lee** | Bachelor of IT (Network & Security Minor) | Queensland University of Technology
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/inkwanglee/)
 [![Email](https://img.shields.io/badge/Email-inkwang616%40gmail.com-red)](mailto:inkwang616@gmail.com)
 
 ---
@@ -156,8 +156,8 @@ This portfolio contains sanitized versions of academic projects. Sensitive infor
 - **Email:** inkwang616@gmail.com
 - **Phone:** +61 423 969 881
 - **Location:** Brisbane, Queensland, Australia
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Resume:** [Link to resume PDF when ready]
+- **LinkedIn:** https://www.linkedin.com/in/inkwanglee/
+- **Resume:** [Resume (PDF)](./Inkwang_Lee_Resume_Cybersecurity.pdf)
 
 ---
 
